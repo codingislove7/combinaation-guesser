@@ -73,3 +73,4 @@ function maker() {
     gameArea.appendChild(el);
   }
 }
+
